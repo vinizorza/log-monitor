@@ -1,5 +1,0 @@
-c:\users\vzorzanelli\documents\visual studio 2010\Projects\VZLogMonitor\VZLogMonitor\bin\Debug\VZLogMonitor.exe
-c:\users\vzorzanelli\documents\visual studio 2010\Projects\VZLogMonitor\VZLogMonitor\bin\Debug\VZLogMonitor.pdb
-c:\users\vzorzanelli\documents\visual studio 2010\Projects\VZLogMonitor\VZLogMonitor\obj\x86\Debug\VZLogMonitor.exe
-c:\users\vzorzanelli\documents\visual studio 2010\Projects\VZLogMonitor\VZLogMonitor\obj\x86\Debug\VZLogMonitor.pdb
-C:\Users\vzorzanelli\documents\visual studio 2010\Projects\VZLogMonitor\VZLogMonitor\obj\x86\Debug\VZLogMonitor.csprojResolveAssemblyReference.cache
